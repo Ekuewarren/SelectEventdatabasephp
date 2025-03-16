@@ -1,0 +1,20 @@
+body{
+background-color: white;
+}
+h1{
+	color:red;
+	}
+	
+h2{
+	color:magenta;
+	}
+	
+p{
+	font-family:20px;
+    color:red;	
+	}
+	
+	
+	a {
+  color: hotpink;
+}
