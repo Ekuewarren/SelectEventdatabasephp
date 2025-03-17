@@ -21,6 +21,7 @@ echo '<p><a href="http://localhost/wdv341/phpfunction/function.php">Take a trip 
 echo '<p><a href="http://localhost/pjpfileupload/upload.php">Upload your vacation pictures</a></p>';
 echo '<p><a href="http://localhost/wdv341/connect/connectPDO.php">Connect to my database Server</a></p>';
 echo '<p><a href="http://localhost/wdv341/connect/dbConnect.php">Create selectEvents.php</a></p>';
+echo '<p><a href="http://localhost/wdv341/connect/selectOneEvent.php">Create selectEvents.php</a></p>';
 ?>
 
 </body>
